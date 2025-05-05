@@ -1,0 +1,10 @@
+{
+  "main": "test-abc-20250505.raml",
+  "name": "test ABC 20250505",
+  "groupId": "7ea08e26-6acd-4f00-b583-df7de9a3ab2a",
+  "assetId": "test-abc-20250505",
+  "version": "1.0.0",
+  "classifier": "raml",
+  "tags": [],
+  "descriptorVersion": "1.0.0"
+}
