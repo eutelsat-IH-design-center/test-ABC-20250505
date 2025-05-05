@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="MAVEN_DEP_LIB/a126d128-9756-4803-bbb7-b119bc26df28/eutelsat-errors-library/1.0.4/zip"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

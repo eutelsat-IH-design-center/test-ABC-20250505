@@ -1,10 +1,16 @@
 {
-  "main": "test-abc-20250505.raml",
-  "name": "test ABC 20250505",
-  "groupId": "7ea08e26-6acd-4f00-b583-df7de9a3ab2a",
-  "assetId": "test-abc-20250505",
-  "version": "1.0.0",
-  "classifier": "raml",
-  "tags": [],
-  "descriptorVersion": "1.0.0"
+  "main" : "test-abc-20250505.raml",
+  "name" : "test ABC 20250505",
+  "classifier" : "raml",
+  "tags" : [ ],
+  "groupId" : "7ea08e26-6acd-4f00-b583-df7de9a3ab2a",
+  "assetId" : "test-abc-20250505",
+  "version" : "1.0.0",
+  "apiVersion" : "",
+  "dependencies" : [ {
+    "groupId" : "a126d128-9756-4803-bbb7-b119bc26df28",
+    "assetId" : "eutelsat-errors-library",
+    "version" : "1.0.4"
+  } ],
+  "descriptorVersion" : "1.0.0"
 }
